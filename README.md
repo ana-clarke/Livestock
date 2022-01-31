@@ -1,5 +1,4 @@
-# Livestock Machine learning model
-Data Science applied to livestock
+# Data Science applied to Livestock
 
 Dairy farmers monitor their cows at every milking for signs of mastitis or other conditions that could affect the quality of the milk. Working with devices capable of measuring the blood content of milk help to identify it.
 
